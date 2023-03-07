@@ -1,0 +1,4 @@
+name: ExampleLampPlugin
+version: '${project.version}'
+main: cc.davyy.examplelampplugin.ExampleLampPlugin
+api-version: 1.19
